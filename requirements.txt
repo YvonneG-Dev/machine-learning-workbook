@@ -1,5 +1,7 @@
+# Python 3.12.x recommended — coremltools is not yet compatible with newer versions
 numpy
 pandas
 matplotlib
-scikit-learn
+scikit-learn<=1.5.1
 jupyter
+coremltools==9.0
