@@ -217,4 +217,23 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Xcode
+
+## macOS
 .DS_Store
+**/.DS_Store
+
+## User settings
+xcuserdata/
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace

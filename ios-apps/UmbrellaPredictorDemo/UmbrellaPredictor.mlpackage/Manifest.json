@@ -1,0 +1,12 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "F3DC8B1F-9F43-4A74-A4A2-7FB9F3B9D2DC": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "model.mlmodel",
+            "path": "com.apple.CoreML/model.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "F3DC8B1F-9F43-4A74-A4A2-7FB9F3B9D2DC"
+}
