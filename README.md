@@ -15,10 +15,12 @@ including deploying a trained model to iOS via CoreML.
 - ☔ [Logistic Regression with scikit-learn + CoreML Export](courses/course-1-supervised-ml/03-logistic-regression-umbrella-scikit-learn.ipynb) — revisits the umbrella model using scikit-learn, exports it to CoreML, and runs it in a small iOS app
 
 ### Course 2 – Advanced Learning Algorithms
+✅ Certificate earned
+
 - ⏳ In Progress
 
 ### Course 3 – Unsupervised Learning, Recommenders, Reinforcement Learning
-- ⏳ Not started
+⏳ Not started
 
 ## iOS Demo
 
