@@ -17,6 +17,7 @@ including deploying a trained model to iOS via CoreML.
 ### Course 2 – Advanced Learning Algorithms
 ✅ Certificate earned
 
+- 📦 [Neural Network from Scratch – Package Delivery Prediction](courses/course-2-advanced-learning-algorithms/01-neural-network-package-delivery.ipynb) — from-scratch neural network with one hidden layer predicting next-day package delivery
 - ⏳ In Progress
 
 ### Course 3 – Unsupervised Learning, Recommenders, Reinforcement Learning
